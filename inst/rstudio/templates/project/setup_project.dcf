@@ -1,0 +1,8 @@
+Binding: setup_project
+Title: Git Start New Project
+Subtitle: Create a New Project with Remote on Share Drive
+
+Parameter: remote_url
+Widget: FileInput
+Label: Remote Repo Location
+Position: left
